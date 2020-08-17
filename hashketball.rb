@@ -3,7 +3,7 @@ hasketball(game_hash)
 
 nba_players = {
   :home => {
-    :team_name => "2k",
-    :colors => "red, black",
+    :team_name => "Brookltn Nets",
+    :colors => "Black, White" 
     :players => []
   },
