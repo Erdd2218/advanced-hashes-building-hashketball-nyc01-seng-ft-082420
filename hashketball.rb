@@ -6,6 +6,7 @@ nba_players = {
     :team_name => "Brookltn Nets",
     :colors => "Black, White" 
     :players => [{
-      :player_name => "Alan Anderson"
+      :player_name => "Alan Anderson",
+      :
     }]
   },
